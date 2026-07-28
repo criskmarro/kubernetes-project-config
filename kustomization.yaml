@@ -17,16 +17,16 @@ resources:
 images:
 - name: broadcaster
   newName: broadcaster
-  newTag: ea5216228c3c97c51c829f1c8208c85dbec8182d
+  newTag: 7a6a091098dabdbca95ec2c6c64225982ff5c5b2
 - name: postgres-backup
   newName: postgres-backup
-  newTag: ea5216228c3c97c51c829f1c8208c85dbec8182d
+  newTag: 7a6a091098dabdbca95ec2c6c64225982ff5c5b2
 - name: todo-app
   newName: todo-app
-  newTag: ea5216228c3c97c51c829f1c8208c85dbec8182d
+  newTag: 7a6a091098dabdbca95ec2c6c64225982ff5c5b2
 - name: todo-backend
   newName: todo-backend
-  newTag: ea5216228c3c97c51c829f1c8208c85dbec8182d
+  newTag: 7a6a091098dabdbca95ec2c6c64225982ff5c5b2
 - name: todo-reminder
   newName: todo-reminder
-  newTag: ea5216228c3c97c51c829f1c8208c85dbec8182d
+  newTag: 7a6a091098dabdbca95ec2c6c64225982ff5c5b2
